@@ -868,10 +868,24 @@ span {
     width: 100%;
   }
   .img {
-    margin-left: 110px;
+    margin-left: 130px;
 }
   .btn-all-skill {
     height: 2.5rem;
     width: 20rem;
+  }
+
+  .modal-box-kasir, .modal-box-kopi {
+    width: 100%;
+  }
+
+  .modal-box-kopi .close-icon {
+    top: 12rem;
+  }
+
+  .close-icon {
+    top: 12rem;
+    right: 1.6rem;
+    font-size: 24px;
   }
 }
