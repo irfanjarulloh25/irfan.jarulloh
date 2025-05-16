@@ -862,3 +862,16 @@ span {
     max-width: 100%;
   }
 }
+
+@media (max-width: 420px) {
+   .container {
+    width: 100%;
+  }
+  .img {
+    margin-left: 110px;
+}
+  .btn-all-skill {
+    height: 2.5rem;
+    width: 20rem;
+  }
+}
